@@ -1,0 +1,11 @@
+.idea
+__pycache__
+venv
+/cepu_qr.db
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+/migrations
+machinet.conf
